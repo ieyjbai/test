@@ -12,6 +12,7 @@ import redis.clients.jedis.Jedis;
 import redis.clients.jedis.JedisShardInfo;
 import redis.clients.jedis.SortingParams;
 
+// Jedis 基本操作
 public class Test01_basicJedis {
 	private Jedis jedis;
 
